@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "miniBill/elm-codec",
+    "name": "elm-simplex/miniBill-elm-codec",
     "summary": "Build JSON encoders and decoders with minimal boilerplate",
     "license": "MIT",
     "version": "2.0.0",
